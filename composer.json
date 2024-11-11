@@ -1,0 +1,11 @@
+{
+    "name": "t470p/tdw_project",
+    "require": {
+        "vlucas/phpdotenv": "^4.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    }
+}
